@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LinkedinClone</string>
+    <string name="n_one">JOHN DOE</string>
+    <string name="n_two">JAMES DOE</string>
+    <string name="n_three">ROBERT DOE</string>
+    <string name="n_four">JOSEPH DOE</string>
+    <string name="n_five">THOMAS DOE</string>
+    <string name="m_one">796 mutual</string>
+    <string name="m_two">890 mutual</string>
+    <string name="m_three">330 mutual</string>
+    <string name="m_four">540 mutual</string>
+    <string name="m_five">210 mutual</string>
+</resources>
